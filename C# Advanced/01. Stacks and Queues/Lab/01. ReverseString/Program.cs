@@ -1,4 +1,6 @@
-﻿string input = Console.ReadLine();
+﻿using System.Collections.Generic;
+
+string input = Console.ReadLine();
 
 Stack<char> stack = new Stack<char>();
 

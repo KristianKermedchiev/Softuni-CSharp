@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\refint\03. Simple Calculator.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Lab\03. Simple Calculator\obj\Debug\net6.0\ref\03. Simple Calculator.dll
