@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfrQoj9MYgIWSLdWNt82DBbIjWfLSCQGw5IjweCErxIV1uTO54k5McihXbcq+IWNShbHrKMdvFfx6RFzPho4KQ==",
+  "dgSpecHash": "wozANASebCWr/bt9EjyvnpXyokNjnRX5Qh2o0OP2MJ/0gJP6/Ok57tAzUJZP5ddRXcWg0/mD1u7MKiKcOr636A==",
   "success": true,
-  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\02. Multidimensional Arrays\\Lab\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\02. Multidimensional Arrays\\Lab\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
