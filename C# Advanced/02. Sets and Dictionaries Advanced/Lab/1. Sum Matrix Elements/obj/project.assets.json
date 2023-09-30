@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Lab\\Lab2\\Lab1\\Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Lab\\Lab2\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\02. Sets and Dictionaries Advanced\\Lab\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
+      "projectName": "1. Sum Matrix Elements",
+      "projectPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\02. Sets and Dictionaries Advanced\\Lab\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
       "packagesPath": "C:\\Users\\kkerm\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Lab\\Lab2\\Lab1\\obj\\",
+      "outputPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\02. Sets and Dictionaries Advanced\\Lab\\1. Sum Matrix Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
