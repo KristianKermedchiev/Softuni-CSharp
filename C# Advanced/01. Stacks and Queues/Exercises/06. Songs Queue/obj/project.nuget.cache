@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrWGjtO+voC8cEkQ1T+3XPa587Ir+cvTltqKjJLmmk3zb4f0Uk/rQaZ3KSDH+pbbd0mrGwHx1mgmn845ZdVMpw==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Exercises\\06. Songs Queue\\6. Songs Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

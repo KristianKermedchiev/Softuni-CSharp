@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjblD/CadvXaW8gadV7PGv7ITlvuO0O9tMZTe5oWXkEB0ZC2cgAv9aFany/KN1/+zoltyrl3op8N9XOf/G5G4w==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Exercises\\11. Key Revolver\\11. Key Revolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

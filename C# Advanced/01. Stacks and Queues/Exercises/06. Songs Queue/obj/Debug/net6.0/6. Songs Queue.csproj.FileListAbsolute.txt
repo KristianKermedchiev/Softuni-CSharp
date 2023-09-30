@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\bin\Debug\net6.0\6. Songs Queue.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\bin\Debug\net6.0\6. Songs Queue.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\bin\Debug\net6.0\6. Songs Queue.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\bin\Debug\net6.0\6. Songs Queue.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\bin\Debug\net6.0\6. Songs Queue.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\refint\6. Songs Queue.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\6. Songs Queue.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\06. Songs Queue\obj\Debug\net6.0\ref\6. Songs Queue.dll

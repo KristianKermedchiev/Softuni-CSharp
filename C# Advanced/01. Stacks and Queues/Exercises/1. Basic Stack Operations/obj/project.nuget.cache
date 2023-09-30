@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIgbtMYaNWpevrsNnu5w4P3alHMFu//Uix0KVwr5Ku9P9gqcFZXjHux1YMc+npxJvPvOzzAwG/CVuPiOh4ATWw==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Exercises\\1. Basic Stack Operations\\1. Basic Stack Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

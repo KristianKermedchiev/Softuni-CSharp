@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuiSUPu1bCiCKlNwtS7z3f38Df569L1FIbig0es7tZOtTO0coilfEi+PEOWt9JHaqvR0X27QpC1c0p2RuDOz4g==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Exercises\\10. Crossroads\\10. Crossroads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

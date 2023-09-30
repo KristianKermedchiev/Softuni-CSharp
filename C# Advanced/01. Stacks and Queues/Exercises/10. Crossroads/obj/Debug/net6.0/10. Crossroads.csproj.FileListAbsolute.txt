@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\bin\Debug\net6.0\10. Crossroads.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\bin\Debug\net6.0\10. Crossroads.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\bin\Debug\net6.0\10. Crossroads.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\bin\Debug\net6.0\10. Crossroads.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\bin\Debug\net6.0\10. Crossroads.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\refint\10. Crossroads.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\10. Crossroads.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\10. Crossroads\obj\Debug\net6.0\ref\10. Crossroads.dll

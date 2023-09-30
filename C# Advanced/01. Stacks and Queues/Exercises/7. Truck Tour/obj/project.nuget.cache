@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vyFYWKXyV94LBLUroYsCSvr7LGGTK1A6SX7MqxQT5ojDlmls7EAGAbEDulsYI21pEHizOa7ougkHzuW7OT55qQ==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\01. Stacks and Queues\\Exercises\\7. Truck Tour\\7. Truck Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

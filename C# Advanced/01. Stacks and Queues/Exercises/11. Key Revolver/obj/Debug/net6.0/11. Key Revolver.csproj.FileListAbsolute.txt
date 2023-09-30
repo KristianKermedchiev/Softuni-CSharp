@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\refint\11. Key Revolver.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\01. Stacks and Queues\Exercises\11. Key Revolver\obj\Debug\net6.0\ref\11. Key Revolver.dll
