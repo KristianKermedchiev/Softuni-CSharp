@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net6.0\7. Pascal Triangle.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\refint\7. Pascal Triangle.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\7. Pascal Triangle.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net6.0\ref\7. Pascal Triangle.dll

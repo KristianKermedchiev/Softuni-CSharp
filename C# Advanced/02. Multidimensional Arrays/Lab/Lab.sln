@@ -7,6 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sum Matrix Elements", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{D2806EB7-FC5E-47C4-A9A0-F5E4A14CBC6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Primary Diagonal", "3. Primary Diagonal\3. Primary Diagonal.csproj", "{EC70B335-4BF8-46C7-A665-9BC78DEE4FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Square with Maximum Sum", "5. Square with Maximum Sum\5. Square with Maximum Sum.csproj", "{E2A52966-6E11-4A52-BD6D-EF197AAAABC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged-Array Modification", "6. Jagged-Array Modification\6. Jagged-Array Modification.csproj", "{C97C2DA9-CBB3-4E4F-B83D-CBB0CFD7ACFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{ADF0E078-29AB-4713-9782-C04576F54D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{39A99A02-DFAB-4FB1-9426-5F52B4FEDC14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +31,26 @@ Global
 		{D2806EB7-FC5E-47C4-A9A0-F5E4A14CBC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2806EB7-FC5E-47C4-A9A0-F5E4A14CBC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2806EB7-FC5E-47C4-A9A0-F5E4A14CBC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC70B335-4BF8-46C7-A665-9BC78DEE4FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC70B335-4BF8-46C7-A665-9BC78DEE4FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC70B335-4BF8-46C7-A665-9BC78DEE4FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC70B335-4BF8-46C7-A665-9BC78DEE4FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A52966-6E11-4A52-BD6D-EF197AAAABC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A52966-6E11-4A52-BD6D-EF197AAAABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A52966-6E11-4A52-BD6D-EF197AAAABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A52966-6E11-4A52-BD6D-EF197AAAABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97C2DA9-CBB3-4E4F-B83D-CBB0CFD7ACFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97C2DA9-CBB3-4E4F-B83D-CBB0CFD7ACFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97C2DA9-CBB3-4E4F-B83D-CBB0CFD7ACFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97C2DA9-CBB3-4E4F-B83D-CBB0CFD7ACFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF0E078-29AB-4713-9782-C04576F54D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF0E078-29AB-4713-9782-C04576F54D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF0E078-29AB-4713-9782-C04576F54D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF0E078-29AB-4713-9782-C04576F54D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A99A02-DFAB-4FB1-9426-5F52B4FEDC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A99A02-DFAB-4FB1-9426-5F52B4FEDC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A99A02-DFAB-4FB1-9426-5F52B4FEDC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A99A02-DFAB-4FB1-9426-5F52B4FEDC14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
