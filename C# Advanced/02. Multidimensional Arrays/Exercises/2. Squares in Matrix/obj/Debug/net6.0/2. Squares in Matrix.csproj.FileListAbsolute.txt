@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\refint\2. Squares in Matrix.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\2. Squares in Matrix\obj\Debug\net6.0\ref\2. Squares in Matrix.dll

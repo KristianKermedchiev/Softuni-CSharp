@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\bin\Debug\net6.0\3. Largest 3 Numbers.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\bin\Debug\net6.0\3. Largest 3 Numbers.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\bin\Debug\net6.0\3. Largest 3 Numbers.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\bin\Debug\net6.0\3. Largest 3 Numbers.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\bin\Debug\net6.0\3. Largest 3 Numbers.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\refint\3. Largest 3 Numbers.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\3. Largest 3 Numbers.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\3. Largest 3 Numbers\obj\Debug\net6.0\ref\3. Largest 3 Numbers.dll

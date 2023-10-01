@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\bin\Debug\net6.0\3. Maximal Sum.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\refint\3. Maximal Sum.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\3. Maximal Sum.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\02. Multidimensional Arrays\Exercises\3. Maximal Sum\obj\Debug\net6.0\ref\3. Maximal Sum.dll

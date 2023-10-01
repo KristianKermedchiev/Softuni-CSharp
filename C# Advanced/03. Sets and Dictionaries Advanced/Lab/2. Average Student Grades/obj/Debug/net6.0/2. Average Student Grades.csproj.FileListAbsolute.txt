@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\net6.0\2. Average Student Grades.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\net6.0\2. Average Student Grades.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\net6.0\2. Average Student Grades.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\net6.0\2. Average Student Grades.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\bin\Debug\net6.0\2. Average Student Grades.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\refint\2. Average Student Grades.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\2. Average Student Grades.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\2. Average Student Grades\obj\Debug\net6.0\ref\2. Average Student Grades.dll
