@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\bin\Debug\net6.0\4. Product Shop.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\bin\Debug\net6.0\4. Product Shop.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\bin\Debug\net6.0\4. Product Shop.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\bin\Debug\net6.0\4. Product Shop.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\bin\Debug\net6.0\4. Product Shop.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\refint\4. Product Shop.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\4. Product Shop.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\4. Product Shop\obj\Debug\net6.0\ref\4. Product Shop.dll

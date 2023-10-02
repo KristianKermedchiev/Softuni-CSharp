@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Average Student Grades",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Largest 3 Numbers", "3. Largest 3 Numbers\3. Largest 3 Numbers.csproj", "{502C6612-0CC3-4568-9758-20141AF4B92E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Product Shop", "4. Product Shop\4. Product Shop.csproj", "{7CBD69BA-F302-4B1B-8231-9C5AF29354EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Cities by Continent and Country", "5. Cities by Continent and Country\5. Cities by Continent and Country.csproj", "{1CB68DD0-A452-453E-BDAA-FD190563CA42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{502C6612-0CC3-4568-9758-20141AF4B92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{502C6612-0CC3-4568-9758-20141AF4B92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{502C6612-0CC3-4568-9758-20141AF4B92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBD69BA-F302-4B1B-8231-9C5AF29354EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBD69BA-F302-4B1B-8231-9C5AF29354EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBD69BA-F302-4B1B-8231-9C5AF29354EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBD69BA-F302-4B1B-8231-9C5AF29354EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB68DD0-A452-453E-BDAA-FD190563CA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB68DD0-A452-453E-BDAA-FD190563CA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB68DD0-A452-453E-BDAA-FD190563CA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB68DD0-A452-453E-BDAA-FD190563CA42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
