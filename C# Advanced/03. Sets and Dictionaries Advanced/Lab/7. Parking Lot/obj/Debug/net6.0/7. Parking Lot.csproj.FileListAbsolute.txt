@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\bin\Debug\net6.0\7. Parking Lot.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\bin\Debug\net6.0\7. Parking Lot.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\bin\Debug\net6.0\7. Parking Lot.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\bin\Debug\net6.0\7. Parking Lot.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\bin\Debug\net6.0\7. Parking Lot.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\refint\7. Parking Lot.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\7. Parking Lot.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\7. Parking Lot\obj\Debug\net6.0\ref\7. Parking Lot.dll

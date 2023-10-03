@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\bin\Debug\net6.0\8. SoftUni Party.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\bin\Debug\net6.0\8. SoftUni Party.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\bin\Debug\net6.0\8. SoftUni Party.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\bin\Debug\net6.0\8. SoftUni Party.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\bin\Debug\net6.0\8. SoftUni Party.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\refint\8. SoftUni Party.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\8. SoftUni Party.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\8. SoftUni Party\obj\Debug\net6.0\ref\8. SoftUni Party.dll

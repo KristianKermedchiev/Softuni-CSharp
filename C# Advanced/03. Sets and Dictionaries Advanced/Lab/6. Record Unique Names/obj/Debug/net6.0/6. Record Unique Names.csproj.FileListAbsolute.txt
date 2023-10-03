@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\bin\Debug\net6.0\6. Record Unique Names.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\bin\Debug\net6.0\6. Record Unique Names.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\bin\Debug\net6.0\6. Record Unique Names.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\bin\Debug\net6.0\6. Record Unique Names.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\bin\Debug\net6.0\6. Record Unique Names.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\refint\6. Record Unique Names.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\6. Record Unique Names.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\03. Sets and Dictionaries Advanced\Lab\6. Record Unique Names\obj\Debug\net6.0\ref\6. Record Unique Names.dll
