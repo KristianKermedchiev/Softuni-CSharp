@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\bin\Debug\net6.0\CarManufacturer.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\bin\Debug\net6.0\CarManufacturer.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\bin\Debug\net6.0\CarManufacturer.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\bin\Debug\net6.0\CarManufacturer.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\refint\CarManufacturer.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\06. Defining Classes\Lab\1. Car\obj\Debug\net6.0\ref\CarManufacturer.dll
