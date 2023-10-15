@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+PxNHXekbaAH6bLTk113E4mF6xJi2Ta81jzG0uRlAS/x2YZHD3A52EQoK7Lp0GE2/EpWwBED4Rpht6W/LH3tQ==",
+  "dgSpecHash": "QOrGAWKLa00XP+aAYVCVDOHCXITolDqOVF+AgK89d0Dx4+XqXYKpVDiIn0KKcO4fRzSNta3xoVVuaD6whDChIQ==",
   "success": true,
-  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\01.TempleofDoom\\01.TempleOfDoom.csproj",
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\01.TempleofDoom\\01.TempleofDoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
     "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",

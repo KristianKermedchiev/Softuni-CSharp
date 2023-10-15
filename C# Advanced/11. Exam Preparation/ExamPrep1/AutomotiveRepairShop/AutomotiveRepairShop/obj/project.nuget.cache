@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SBQDQgwd128BBW7qh1b28xKq5W1K1nQkRVilBChGHgVKtqLm137TgDzRgEvkjYZdsf/fHDEPrH+W8e+ADCDq0A==",
+  "dgSpecHash": "if6IXCnlJm5bYndN5JrGS1wlXZ+AJI7AprQcxr2WMqZ0A4J2+Bwi1qBLmx9jRis0UJXlEDYWgl1rVy22MPt5Hg==",
   "success": true,
-  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\demo\\demo.csproj",
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\AutomotiveRepairShop\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
     "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",

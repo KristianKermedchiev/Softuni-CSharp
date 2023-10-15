@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\demo\\demo.csproj",
-      "projectName": "demo",
-      "projectPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\demo\\demo.csproj",
+      "projectUniqueName": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\AutomotiveRepairShop\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj",
+      "projectName": "AutomotiveRepairShop",
+      "projectPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\AutomotiveRepairShop\\AutomotiveRepairShop\\AutomotiveRepairShop.csproj",
       "packagesPath": "C:\\Users\\kkerm\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\demo\\obj\\",
+      "outputPath": "F:\\GitHub\\Softuni-CSharp\\C# Advanced\\11. Exam Preparation\\ExamPrep1\\AutomotiveRepairShop\\AutomotiveRepairShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
