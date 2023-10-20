@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MonsterExtermination", "01.MonsterExtermination\01.MonsterExtermination.csproj", "{6A07FF13-0D61-4894-A180-3590E2888CBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DeliveryBoy", "02.DeliveryBoy\02.DeliveryBoy.csproj", "{FDDADFC4-F2DA-4800-A1DF-8FA0630F3232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6A07FF13-0D61-4894-A180-3590E2888CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A07FF13-0D61-4894-A180-3590E2888CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A07FF13-0D61-4894-A180-3590E2888CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDADFC4-F2DA-4800-A1DF-8FA0630F3232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDADFC4-F2DA-4800-A1DF-8FA0630F3232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDADFC4-F2DA-4800-A1DF-8FA0630F3232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDADFC4-F2DA-4800-A1DF-8FA0630F3232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
