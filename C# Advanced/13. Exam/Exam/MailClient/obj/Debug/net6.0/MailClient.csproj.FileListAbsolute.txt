@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\bin\Debug\net6.0\MailClient.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\bin\Debug\net6.0\MailClient.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\bin\Debug\net6.0\MailClient.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\bin\Debug\net6.0\MailClient.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\MailClient\obj\Debug\net6.0\ref\MailClient.dll

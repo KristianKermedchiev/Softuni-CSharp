@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\bin\Debug\net6.0\01.Problem1.exe
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\bin\Debug\net6.0\01.Problem1.deps.json
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\bin\Debug\net6.0\01.Problem1.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\bin\Debug\net6.0\01.Problem1.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\bin\Debug\net6.0\01.Problem1.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\refint\01.Problem1.dll
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.pdb
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\01.Problem1.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# Advanced\13. Exam\Exam\01.Problem1\obj\Debug\net6.0\ref\01.Problem1.dll
