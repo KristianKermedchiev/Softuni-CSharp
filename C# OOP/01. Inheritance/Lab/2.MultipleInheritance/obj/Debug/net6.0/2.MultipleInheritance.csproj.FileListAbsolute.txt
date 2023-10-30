@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\bin\Debug\net6.0\2.MultipleInheritance.exe
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\bin\Debug\net6.0\2.MultipleInheritance.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\bin\Debug\net6.0\2.MultipleInheritance.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\bin\Debug\net6.0\2.MultipleInheritance.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\bin\Debug\net6.0\2.MultipleInheritance.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\refint\2.MultipleInheritance.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\2.MultipleInheritance.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\2.MultipleInheritance\obj\Debug\net6.0\ref\2.MultipleInheritance.dll
