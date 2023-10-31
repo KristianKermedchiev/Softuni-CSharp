@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\bin\Debug\net6.0\Person.exe
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\bin\Debug\net6.0\Person.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\bin\Debug\net6.0\Person.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\bin\Debug\net6.0\Person.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\refint\Person.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Exercises\Person\obj\Debug\net6.0\ref\Person.dll
