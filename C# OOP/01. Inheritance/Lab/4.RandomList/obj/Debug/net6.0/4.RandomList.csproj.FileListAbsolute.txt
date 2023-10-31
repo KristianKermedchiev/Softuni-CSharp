@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.exe
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\bin\Debug\net6.0\4.RandomList.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\refint\4.RandomList.dll
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\4.RandomList.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\01. Inheritance\Lab\4.RandomList\obj\Debug\net6.0\ref\4.RandomList.dll
