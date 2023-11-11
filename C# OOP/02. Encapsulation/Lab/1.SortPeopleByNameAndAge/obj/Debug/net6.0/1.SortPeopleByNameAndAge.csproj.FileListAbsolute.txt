@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\bin\Debug\net6.0\1.SortPeopleByNameAndAge.exe
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\bin\Debug\net6.0\1.SortPeopleByNameAndAge.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\bin\Debug\net6.0\1.SortPeopleByNameAndAge.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\bin\Debug\net6.0\1.SortPeopleByNameAndAge.dll
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\bin\Debug\net6.0\1.SortPeopleByNameAndAge.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.dll
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\refint\1.SortPeopleByNameAndAge.dll
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\1.SortPeopleByNameAndAge.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\02. Encapsulation\Lab\1.SortPeopleByNameAndAge\obj\Debug\net6.0\ref\1.SortPeopleByNameAndAge.dll
