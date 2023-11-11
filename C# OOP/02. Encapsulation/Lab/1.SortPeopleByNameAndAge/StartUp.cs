@@ -6,34 +6,21 @@ public class StartUp
     {
         int n = int.Parse(Console.ReadLine());
 
-        List<Person> people = new List<Person>();
+        Team team = new Team("SoftUni");
 
         for (int i = 0; i < n; i++)
         {
-            string[] personInfo = Console.ReadLine().Split();
+            string[] inputInfo = Console.ReadLine().Split();
 
-            int age = int.Parse(personInfo[2]);
-            decimal salary = decimal.Parse(personInfo[3]);
+            int age = int.Parse(inputInfo[2]);
+            decimal salary = decimal.Parse(inputInfo[3]);
 
-            try
-            {
-                Person person = new Person(personInfo[0], personInfo[1], age, salary);
+            Person person = new Person(inputInfo[0], inputInfo[1], age, salary);
 
-                people.Add(person);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            
+            team.AddPlayer(person);
         }
 
-        decimal percentage = decimal.Parse(Console.ReadLine());
-
-        foreach (Person person in people)
-        {
-            person.IncreaseSalary(percentage);
-            Console.WriteLine(person.ToString());
-        }
+        Console.WriteLine($"First team has {team.FirstTeam.Count} players.");
+        Console.WriteLine($"Reserve team has {team.ReserveTeam.Count} players.");
     }
 }
