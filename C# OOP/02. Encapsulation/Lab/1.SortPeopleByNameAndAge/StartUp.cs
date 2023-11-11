@@ -15,9 +15,17 @@ public class StartUp
             int age = int.Parse(personInfo[2]);
             decimal salary = decimal.Parse(personInfo[3]);
 
-            Person person = new Person(personInfo[0], personInfo[1], age, salary);
+            try
+            {
+                Person person = new Person(personInfo[0], personInfo[1], age, salary);
 
-            people.Add(person);
+                people.Add(person);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            
         }
 
         decimal percentage = decimal.Parse(Console.ReadLine());
