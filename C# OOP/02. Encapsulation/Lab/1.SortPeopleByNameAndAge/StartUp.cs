@@ -13,14 +13,18 @@ public class StartUp
             string[] personInfo = Console.ReadLine().Split();
 
             int age = int.Parse(personInfo[2]);
+            decimal salary = decimal.Parse(personInfo[3]);
 
-            Person person = new Person(personInfo[0], personInfo[1], age);
+            Person person = new Person(personInfo[0], personInfo[1], age, salary);
 
             people.Add(person);
         }
 
-        foreach (var person in people.OrderBy(x => x.FirstName).ThenBy(x => x.Age))
+        decimal percentage = decimal.Parse(Console.ReadLine());
+
+        foreach (Person person in people)
         {
+            person.IncreaseSalary(percentage);
             Console.WriteLine(person.ToString());
         }
     }
