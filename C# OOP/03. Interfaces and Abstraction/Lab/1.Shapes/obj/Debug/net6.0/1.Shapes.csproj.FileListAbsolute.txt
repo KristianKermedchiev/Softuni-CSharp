@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\bin\Debug\net6.0\1.Shapes.exe
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\bin\Debug\net6.0\1.Shapes.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\bin\Debug\net6.0\1.Shapes.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\bin\Debug\net6.0\1.Shapes.dll
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\bin\Debug\net6.0\1.Shapes.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.dll
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\refint\1.Shapes.dll
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\1.Shapes.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\03. Interfaces and Abstraction\Lab\1.Shapes\obj\Debug\net6.0\ref\1.Shapes.dll
