@@ -6,6 +6,8 @@ In this course we covered the following topics:
 
 Inheritance
 
+Encapsulation
+
 Interfaces and Abstraction
 
 Polymorphism
