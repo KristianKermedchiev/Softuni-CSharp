@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\bin\Debug\net6.0\Operations.exe
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\bin\Debug\net6.0\Operations.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\bin\Debug\net6.0\Operations.dll
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\bin\Debug\net6.0\Operations.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.dll
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\refint\Operations.dll
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Operations\obj\Debug\net6.0\ref\Operations.dll
