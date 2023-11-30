@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\bin\Debug\net6.0\Animals.exe
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\bin\Debug\net6.0\Animals.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\bin\Debug\net6.0\Animals.dll
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\bin\Debug\net6.0\Animals.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.dll
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\refint\Animals.dll
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\4. Polymorphism\Lab\Animals\obj\Debug\net6.0\ref\Animals.dll
