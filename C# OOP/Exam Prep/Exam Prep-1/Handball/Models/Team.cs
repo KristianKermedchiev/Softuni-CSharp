@@ -4,23 +4,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+
 
 namespace Handball.Models
 {
     public class Team : ITeam
     {
-
         private string name;
-        private int pointsEarned;
-        private double overallRating;
-        private List<IPlayer> players;
-
-        public Team(string name)
-        {
-            Name = name;
-        }
 
         public string Name
         {
@@ -31,18 +21,19 @@ namespace Handball.Models
                 {
                     throw new ArgumentException(ExceptionMessages.TeamNameNull);
                 }
+
                 name = value;
             }
         }
 
+        private int pointsEarned;
+
         public int PointsEarned
         {
             get { return pointsEarned; }
-            private set
-            {
-                pointsEarned = value;
-            } 
+            private set { pointsEarned = value;}
         }
+
 
         public double OverallRating
         {
@@ -55,13 +46,27 @@ namespace Handball.Models
 
                 return Math.Round(players.Average(p => p.Rating), 2);
             }
-           
+
         }
+
+
+        private List<IPlayer> players;
 
         public IReadOnlyCollection<IPlayer> Players
         {
             get { return players.AsReadOnly(); }
         }
+
+        private double overallRating;
+
+        
+
+        public Team(string name)
+        {
+            Name = name;
+            players = new List<IPlayer>();
+        }
+
 
         public void Draw()
         {
@@ -86,6 +91,8 @@ namespace Handball.Models
 
         public void SignContract(IPlayer player)
         {
+            if (players.Any(p => p is Goalkeeper) && player is Goalkeeper) return;
+            
             players.Add(player);
         }
 

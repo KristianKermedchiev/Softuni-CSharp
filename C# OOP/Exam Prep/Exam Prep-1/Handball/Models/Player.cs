@@ -25,7 +25,7 @@ namespace Handball.Models
             get { return name; }
             private set
             {   
-                if (String.IsNullOrEmpty(value))
+                if (String.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException(ExceptionMessages.PlayerNameNull);
                 }

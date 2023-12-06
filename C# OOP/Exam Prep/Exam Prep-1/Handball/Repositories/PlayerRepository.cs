@@ -13,6 +13,11 @@ namespace Handball.Repositories
     {
         private List<IPlayer> players;
 
+        public PlayerRepository()
+        {
+            players = new List<IPlayer>();
+        }
+
         public IReadOnlyCollection<IPlayer> Models
         {
             get { return players.AsReadOnly(); }

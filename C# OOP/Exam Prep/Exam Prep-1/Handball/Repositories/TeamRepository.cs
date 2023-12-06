@@ -12,6 +12,10 @@ namespace Handball.Repositories
     public class TeamRepository : IRepository<ITeam>
     {
         private List<ITeam> teams;
+        public TeamRepository()
+        {
+            teams = new List<ITeam>();
+        }
         public IReadOnlyCollection<ITeam> Models
         {
             get { return teams.AsReadOnly(); }
