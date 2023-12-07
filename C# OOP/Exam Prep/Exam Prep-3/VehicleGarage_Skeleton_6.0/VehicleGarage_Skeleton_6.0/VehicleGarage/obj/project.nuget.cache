@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxFvN02GDLluNMbHtIwnFZvTSafJLseqZBNPelUuke9fsOlWyBRqwlS3BcxmYCHFb9HYKbphg5d1OWfTJgAxVg==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\C# OOP\\Exam Prep\\Exam Prep-3\\VehicleGarage_Skeleton_6.0\\VehicleGarage_Skeleton_6.0\\VehicleGarage\\VehicleGarage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
