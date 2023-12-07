@@ -1,0 +1,14 @@
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.exe
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.runtimeconfig.dev.json
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.dll
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\bin\Debug\netcoreapp3.1\FootballTeam.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.dll
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\Exam Prep\Exam Prep-2\03. Unit Tests_Skeleton\FootballTeam\obj\Debug\netcoreapp3.1\FootballTeam.genruntimeconfig.cache
