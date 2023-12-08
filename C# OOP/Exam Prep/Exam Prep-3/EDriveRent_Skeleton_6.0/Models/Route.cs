@@ -57,7 +57,7 @@ namespace EDriveRent.Models
             get => length;
             private set
             {
-                if (length < 1)
+                if (value < 1)
                 {
                     throw new ArgumentException("Length cannot be less than 1 kilometer.");
                 }
