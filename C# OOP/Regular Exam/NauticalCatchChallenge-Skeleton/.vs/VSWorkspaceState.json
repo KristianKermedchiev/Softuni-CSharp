@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Models",
+    "\\Models\\Contracts",
+    "\\Repositories",
+    "\\Repositories\\Contracts"
+  ],
+  "SelectedNode": "\\Models\\Contracts\\IDiver.cs",
+  "PreviewInSolutionExplorer": false
+}

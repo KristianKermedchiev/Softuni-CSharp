@@ -1,0 +1,15 @@
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.exe
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.dll
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.csproj.AssemblyReference.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.dll
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+F:\GitHub\Softuni-CSharp\C# OOP\Regular Exam\NauticalCatchChallenge-Skeleton\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
