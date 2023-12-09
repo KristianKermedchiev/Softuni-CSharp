@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="RailwayStation.cs~RF2099d6ab.TMP" />
+  </ItemGroup>
+
 </Project>
