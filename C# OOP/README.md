@@ -1,6 +1,6 @@
 Softuni courses and homeworks.
 
-Softuni JavaScript Advanced Module - 24OCT - 9DEC2023.
+Softuni C# OOP Module - 24OCT - 9DEC2023.
 
 In this course we covered the following topics:
 
