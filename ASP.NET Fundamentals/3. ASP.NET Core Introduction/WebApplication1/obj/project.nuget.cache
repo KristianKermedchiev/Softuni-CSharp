@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a1uJTUCOJepcxd3yVsaIXO60zX34zN3W70XyjKIDBLDbx1aNMq/gluVyVMAcLPy1/vzgLeR1p/lf7uDUG5iCHA==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\ASP.NET Fundamentals\\3. ASP.NET Core Introduction\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
