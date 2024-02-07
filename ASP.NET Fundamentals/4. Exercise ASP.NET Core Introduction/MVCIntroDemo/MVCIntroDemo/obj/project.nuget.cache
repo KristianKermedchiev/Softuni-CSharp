@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9HlWbLlaXtLBAfbe4/e2+XG0AP+i3y/7iuDJJWhFguNNODI4GUMyM/Qq2M05KQOeGYBqTJ7D230MQNoCV3zjA==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\Softuni-CSharp\\ASP.NET Fundamentals\\4. Exercise ASP.NET Core Introduction\\MVCIntroDemo\\MVCIntroDemo\\MVCIntroDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kkerm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
