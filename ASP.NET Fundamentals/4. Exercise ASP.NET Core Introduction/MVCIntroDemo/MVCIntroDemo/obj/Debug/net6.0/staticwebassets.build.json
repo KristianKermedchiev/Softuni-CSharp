@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lcXypkMHoPkGg6mAiakvx+GQE+tZuYEqzoFEasd6VNU=",
+  "Hash": "mFwunf+nqD7PXfFdUmJjtZMq5Mmb7pMyOIZQScuXGIw=",
   "Source": "MVCIntroDemo",
   "BasePath": "_content/MVCIntroDemo",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\GitHub\\Softuni-CSharp\\ASP.NET Fundamentals\\4. Exercise ASP.NET Core Introduction\\MVCIntroDemo\\MVCIntroDemo\\wwwroot\\js\\numbers.js",
+      "SourceId": "MVCIntroDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHub\\Softuni-CSharp\\ASP.NET Fundamentals\\4. Exercise ASP.NET Core Introduction\\MVCIntroDemo\\MVCIntroDemo\\wwwroot\\",
+      "BasePath": "_content/MVCIntroDemo",
+      "RelativePath": "js/numbers.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\numbers.js"
     },
     {
       "Identity": "F:\\GitHub\\Softuni-CSharp\\ASP.NET Fundamentals\\4. Exercise ASP.NET Core Introduction\\MVCIntroDemo\\MVCIntroDemo\\wwwroot\\js\\site.js",
